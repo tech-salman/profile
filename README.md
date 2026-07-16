@@ -40,7 +40,7 @@
 │ Visionary developer pushing the boundaries of what's possible   │
 │ with cutting-edge technologies and creative problem-solving.    │
 │                                                                 │
-│ 🎯 Mission: Build scalable, elegant, and futuristic solutions  │
+│ 🎯 Mission: Build scalable, elegant, and futuristic solutions   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
