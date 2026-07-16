@@ -1,4 +1,4 @@
-<div align="center">
+
 <div align="center">
 
 ```
@@ -16,14 +16,14 @@
 ---
 
 ## 🌌 Welcome to My Digital Universe
-<div align>
+
 ```
 > Initializing developer profile...
 > Loading skill matrix...
 > Calibrating innovation frequency...
 ✓ System online. Ready for exploration.
 ```
-</div>
+
 <div align="center">
 
 ### 🔮 Next-Gen Software Architect | Full-Stack Innovator | Open-Source Contributor
@@ -247,4 +247,4 @@ Open for collaborations, partnerships, and innovative projects!
 **Made with 💜 by Tech-Salman | Last Updated: 2026**
 
 </div>
-</div>
+
