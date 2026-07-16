@@ -16,7 +16,7 @@
 ---
 
 ## 🌌 Welcome to My Digital Universe
-
+<div align>
 ```
 > Initializing developer profile...
 > Loading skill matrix...
