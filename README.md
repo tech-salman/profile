@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -133,9 +134,9 @@
 ╔════════════════════════════════════════════╗
 ║        CURRENTLY EXPLORING & LEARNING      ║
 ╠════════════════════════════════════════════╣
-║ 🔬 Quantum Computing & Quantum Algorithms   ║
+║ 🔬 Quantum Computing & Quantum Algorithms  ║
 ║ 🤖 Advanced AI/ML & Neural Networks        ║
-║ 🌐 Web3 & Blockchain Technologies         ║
+║ 🌐 Web3 & Blockchain Technologies          ║
 ║ 🚀 Edge Computing & IoT Solutions          ║
 ║ 🔐 Cybersecurity & Encryption Methods      ║
 ╚════════════════════════════════════════════╝
@@ -153,12 +154,12 @@
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│ ✨ Clean, maintainable code                         │
-│ 🏗️  Scalable architecture design                    │
-│ 🔄 Continuous learning & innovation                 │
-│ 🤝 Collaborative problem-solving                    │
-│ 📚 Knowledge sharing & mentorship                   │
-│ 🎯 User-centric design thinking                     │
+│ ✨ Clean, maintainable code                          │
+│ 🏗️  Scalable architecture design                     │
+│ 🔄 Continuous learning & innovation                  │
+│ 🤝 Collaborative problem-solving                     │
+│ 📚 Knowledge sharing & mentorship                    │
+│ 🎯 User-centric design thinking                      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -245,4 +246,5 @@ Open for collaborations, partnerships, and innovative projects!
 
 **Made with 💜 by Tech-Salman | Last Updated: 2026**
 
+</div>
 </div>
