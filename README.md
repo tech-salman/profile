@@ -5,7 +5,7 @@
 ║                                                                   ║
 ║                    👨‍💻 TECH-SALMAN | DEV PROFILE 🚀                ║
 ║                                                                   ║
-║                    [ FUTURISTIC CODE EXPLORER ]                  ║
+║                    [ FUTURISTIC CODE EXPLORER ]                   ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
