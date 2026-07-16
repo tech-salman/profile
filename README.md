@@ -23,7 +23,7 @@
 > Calibrating innovation frequency...
 ✓ System online. Ready for exploration.
 ```
-
+</div>
 <div align="center">
 
 ### 🔮 Next-Gen Software Architect | Full-Stack Innovator | Open-Source Contributor
